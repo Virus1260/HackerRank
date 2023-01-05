@@ -1,0 +1,1 @@
+// https://dailyjournal.gitbook.io/hackerrank-solutions/certify/javascript-basic
